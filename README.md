@@ -1,0 +1,7 @@
+
+
+cargo build --release
+
+./target/release/png-to-webp img.png
+
+npx skills add ./skill

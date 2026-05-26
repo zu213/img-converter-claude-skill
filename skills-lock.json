@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "skills": {
+    "png-to-webp": {
+      "source": "/Users/zacharyupstone/Documents/stuff/png-webp-converter/skill",
+      "sourceType": "local",
+      "computedHash": "121d5c2d0e912478bbb755cc54c90c9e46ed9e65baec2b922a314b37a2084945"
+    }
+  }
+}
