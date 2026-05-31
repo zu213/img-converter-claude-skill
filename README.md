@@ -1,7 +1,3 @@
+PNG Converter Skill
 
-
-cargo build --release
-
-./target/release/png-to-webp img.png
-
-npx skills add ./skill
+Me trying my hand at writing a SKILL for Claude to utilise a image convertor program
